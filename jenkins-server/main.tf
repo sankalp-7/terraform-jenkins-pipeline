@@ -13,7 +13,7 @@ module "vpc" {
   enable_dns_hostnames = true
 
   tags = {
-    Name        = "terraform-vpc"
+    Name        = "terraform-vpc1"
     Terraform   = "true"
     Environment = "dev"
   }
