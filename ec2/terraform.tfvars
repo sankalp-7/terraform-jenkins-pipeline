@@ -10,3 +10,5 @@ ec2type = "t2.micro"
 #git pull
 
 #feature branch code
+
+#code 2
