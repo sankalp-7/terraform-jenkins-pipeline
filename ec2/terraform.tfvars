@@ -5,3 +5,6 @@ ec2type = "t2.micro"
 
 
 #following line addedß
+
+
+#git pull
