@@ -17,3 +17,6 @@ ec2type = "t2.micro"
 #f22
 
 #some code in fb
+
+
+#main code
